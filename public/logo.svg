@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" fill="none">
+  <!-- 7 with Ribbon -->
+  <path d="M20 10 H80 L50 90" stroke="#FF0000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 40 L40 60" stroke="#4a6fa5" stroke-width="10" stroke-linecap="round"/>
+  
+  <!-- NEWS Text -->
+  <text x="90" y="75" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#CC0000">NEWS</text>
+  
+  <!-- Camera Icon integrated -->
+  <path d="M270 30 L300 10 V90 L270 70 V30 Z" fill="#FF0000"/>
+  <rect x="210" y="30" width="60" height="40" rx="5" stroke="#FF0000" stroke-width="5" fill="none"/>
+</svg>
